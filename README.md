@@ -3,7 +3,7 @@ marp: true
 ---
 
 <!--
-theme: dracula
+theme: gaia
 class:
  - invert
 headingDivider: 2
